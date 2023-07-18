@@ -10,9 +10,6 @@ import user from './user.json';
 />; */
 }
 
-console.log(user);
-console.log(user.tag);
-
 export const Profile = () => {
   const {
     username,
