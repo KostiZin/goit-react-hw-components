@@ -1,5 +1,7 @@
 import data from './data.json';
 
+console.log(data);
+
 export const Statistics = () => {
   return (
     <section className="statistics">
